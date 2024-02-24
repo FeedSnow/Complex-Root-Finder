@@ -1,4 +1,6 @@
 # Complex Root Finder
+
+The program finds complex roots of a given polynomial using Moth-Flame Optimization Algorithm.
  
 ## Polynomial
 
